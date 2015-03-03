@@ -32,3 +32,4 @@ proguard/
 #Libs
 *.jar
 *.bat
+*.propreties
