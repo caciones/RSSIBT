@@ -22,5 +22,7 @@ public class RoomDomain extends SugarRecord<RoomDomain>{
         this.wight = wight;
         this.length = length;
         this.nameBT = nameBT;
+
+
     }
 }

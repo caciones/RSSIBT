@@ -11,18 +11,25 @@ import java.util.List;
  */
 public class RoomDAO {
 
-    public List<RoomDomain> getAllRoom(){
+    public Iterator<RoomDomain> getAllRoom(){
 
-        Iterator<RoomDomain> rooms = RoomDomain.findAll(RoomDomain.class);
-        List<RoomDomain> roomsList = Lists.newArrayList(rooms);
-        for(RoomDomain room : rooms ){
-            roomsList.add(room);
-        }
-        return rooms;
+        return  RoomDomain.findAll(RoomDomain.class);
     }
 
-    public SaveRoom(RoomDomain saveRoom){
-        RoomDomain room = new RoomDomain(name, wight,length, nameBT);
-        room.save();
+    public void SaveRoom(RoomDomain saveRoom){
+        RoomDomain room = new RoomDomain();
+
+
     }
+    public void deleteRoom(RoomDomain room){
+        room.delete();
+    }
+
+    public List<RoomDomain> findRoomByName( String name ){
+        return RoomDomain.find(RoomDomain.class, "name = ?", name);
+    }
+    public static RoomDomain load(long id){
+        return RoomDomain.findById(RoomDomain.class, id);
+    }
+
 }

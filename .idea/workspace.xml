@@ -2,178 +2,371 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edf594ad-1e73-4651-8197-3a2ceba112a3" name="Default" comment="Robot">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/TestGIT.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\.idea\libraries\sugar_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\.idea\libraries\support_annotations_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\.idea\libraries\support_v4_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\app.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\generated\source\buildConfig\debug\com\caciones\rssibt\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\generated\source\r\debug\android\support\v7\appcompat\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\generated\source\r\debug\com\caciones\rssibt\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\generated\source\r\debug\com\orm\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\anim\abc_fade_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\anim\abc_fade_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\anim\abc_slide_in_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\anim\abc_slide_in_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\anim\abc_slide_out_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\anim\abc_slide_out_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_background_cache_hint_selector_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_background_cache_hint_selector_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_primary_text_disable_only_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_primary_text_disable_only_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_primary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_primary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_search_url_text.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_secondary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\color\abc_secondary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-hdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-hdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-hdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-hdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-hdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-mdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-mdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-mdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-mdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-ldrtl-xxxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-mdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xhdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ab_share_pack_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxhdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable-xxxhdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_btn_check_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_btn_radio_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_cab_background_internal_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_cab_background_top_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_edit_text_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_item_background_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_item_background_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_list_selector_background_transition_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_list_selector_background_transition_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_list_selector_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_list_selector_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_switch_thumb_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_tab_indicator_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\drawable\abc_textfield_search_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout-v11\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_bar_title_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_bar_up_container.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_bar_view_list_nav_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_mode_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_action_mode_close_item_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_activity_chooser_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_activity_chooser_view_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_activity_chooser_view_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_expanded_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_list_menu_item_checkbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_list_menu_item_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_list_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_list_menu_item_radio.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_popup_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_screen_simple.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_screen_simple_overlay_action_mode.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_screen_toolbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_search_dropdown_item_icons_2line.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_search_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\abc_simple_dropdown_hint.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\layout\support_simple_spinner_dropdown_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-af\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-am\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ar\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-bg\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-bn-rBD\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ca\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-cs\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-da\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-de\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-el\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-en-rGB\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-en-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-es-rUS\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-es\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-et-rEE\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-eu-rES\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-fa\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-fi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-fr-rCA\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-fr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-gl-rES\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-hi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-hr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-hu\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-hy-rAM\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-in\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-is-rIS\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-it\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-iw\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ja\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ka-rGE\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-kk-rKZ\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-km-rKH\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-kn-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ko\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ky-rKG\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-land\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-large\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-lo-rLA\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-lt\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-lv\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-mk-rMK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ml-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-mn-rMN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-mr-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ms-rMY\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-my-rMM\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-nb\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ne-rNP\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-nl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-pl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-port\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-pt-rPT\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-pt\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ro\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ru\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-si-rLK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-sk\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-sl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-sr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-sv\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-sw600dp\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-sw\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ta-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-te-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-th\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-tl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-tr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-uk\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-ur-rPK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-uz-rUZ\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-v11\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-v14\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-v17\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-v21\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-vi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-w360dp\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-w480dp\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-w500dp\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-w600dp\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-w720dp\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-xlarge-land\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-xlarge\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-zh-rCN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-zh-rHK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-zh-rTW\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values-zu\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\res\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\aidl\android\support\v4\app\INotificationSideChannel.aidl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\res\drawable-hdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\res\drawable-mdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\res\drawable-xhdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\res\drawable-xxhdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3\res\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\build\intermediates\resources\resources-debug.ap_" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\proguard-rules.pro" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\androidTest\java\com\caciones\rssibt\ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\build\intermediates\model_data.bin" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/caciones/rssibt/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/caciones/rssibt/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/MeasurementsDAO.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/MeasurementsDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/orm/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/orm/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RSSIBT.iml" afterPath="$PROJECT_DIR$/RSSIBT.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/RoomDAO.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/RoomDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/Domain/RoomDomain.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/Domain/RoomDomain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout-v11/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout-v11/abc_screen_content_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_search_url_text.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_search_url_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-af/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-am/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-am/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ar/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bg/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bg/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bn-rBD/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bn-rBD/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-de/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-el/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rGB/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rIN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es-rUS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-et-rEE/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-et-rEE/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-eu-rES/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-eu-rES/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fa/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fi/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-gl-rES/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-gl-rES/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hu/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hy-rAM/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hy-rAM/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-is-rIS/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-is-rIS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ka-rGE/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ka-rGE/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kk-rKZ/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kk-rKZ/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-km-rKH/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-km-rKH/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kn-rIN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kn-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ko/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ky-rKG/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ky-rKG/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-land/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-large/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-large/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lo-rLA/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lo-rLA/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lt/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ml-rIN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ml-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mn-rMN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mn-rMN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mr-rIN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mr-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ms-rMY/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ms-rMY/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-my-rMM/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-my-rMM/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nb/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ne-rNP/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ne-rNP/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nl/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pl/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-port/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-port/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-si-rLK/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-si-rLK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sl/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sr/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ta-rIN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ta-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-te-rIN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-te-rIN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ur-rPK/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ur-rPK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uz-rUZ/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uz-rUZ/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v11/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-vi/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w480dp/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w480dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w720dp/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w720dp/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rHK/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rHK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rTW/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zu/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/res/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\java\com\caciones\rssibt\DAO\MeasurementsDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\java\com\caciones\rssibt\DAO\RoomDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\java\com\caciones\rssibt\DAO\TestGIT.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\java\com\caciones\rssibt\Domain\MeasurementsDomain.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\java\com\caciones\rssibt\Domain\RoomDomain.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Faisco\AndroidStudioProjects\RSSIBT\app\src\main\res\values\styles.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roboletric-test/src/com.caciones.rssibt.DAO/Test" afterPath="$PROJECT_DIR$/roboletric-test/src/com.caciones.rssibt.DAO/Test" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RSSIBT.iws" />
@@ -197,16 +390,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="646">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -232,13 +415,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
               <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -253,41 +430,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="391">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="391">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestGIT.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/TestGIT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22788204" vertical-offset="0" max-vertical-offset="373">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.92" vertical-offset="22" max-vertical-offset="374">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.34195402" vertical-offset="306" max-vertical-offset="680">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -297,7 +444,7 @@
         <entry file="file://$PROJECT_DIR$/roboletric-test/src/com.caciones.rssibt.DAO/Test">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="459">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#353#354#0" expanded="true" />
@@ -315,6 +462,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -1715,6 +1863,7 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/roboletric-test/build.gradle" />
         <option value="$PROJECT_DIR$/roboletric-test/src/com.caciones.rssibt.DAO/Test" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1741,7 +1890,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1798,32 +1947,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rssibt" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RSSIBT" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rssibt" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DAO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -1843,34 +1966,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="RSSIBT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RSSIBT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RSSIBT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="roboletric-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RSSIBT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RSSIBT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1896,6 +1991,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="android.project.structure.last.selected" value="roboletric-test" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -2212,32 +2309,44 @@
       <created>1425341391410</created>
       <updated>1425341391410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Class to test git on intelliJ">
+      <created>1425342400924</created>
+      <updated>1425342400924</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore *.iml">
+      <created>1425342706116</created>
+      <updated>1425342706117</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update gitignore">
+      <created>1425342973701</created>
+      <updated>1425342973701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34280938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32274246" sideWeight="0.39561272" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32274246" sideWeight="0.6043873" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32274246" sideWeight="0.5385779" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32274246" sideWeight="0.39561272" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19213313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21785174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21785174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2249,25 +2358,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32274246" sideWeight="0.39561272" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496112" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34280938" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32274246" sideWeight="0.6043873" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -2295,7 +2404,10 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Robot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Robot" />
+    <MESSAGE value="Class to test git on intelliJ" />
+    <MESSAGE value="gitignore *.iml" />
+    <MESSAGE value="update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2510,18 +2622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roboletric-test/src/com.caciones.rssibt.DAO/Test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="459">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
@@ -2542,36 +2642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
           <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.92" vertical-offset="22" max-vertical-offset="374">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -2584,10 +2654,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/roboletric-test/roboletric-test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42045453" vertical-offset="22" max-vertical-offset="374">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caciones/rssibt/DAO/TestGIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22788204" vertical-offset="0" max-vertical-offset="373">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roboletric-test/src/com.caciones.rssibt.DAO/Test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="459">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34195402" vertical-offset="306" max-vertical-offset="680">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding />
         </state>
       </provider>
