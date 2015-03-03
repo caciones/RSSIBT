@@ -1,0 +1,22 @@
+package com.blundell.tests;
+
+import android.view.View;
+
+import com.blundell.RobolectricGradleTestRunner;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.robolectric.util.ActivityController;
+
+import static org.junit.Assert.assertEquals;
+
+@RunWith(RobolectricGradleTestRunner.class)
+public class Test{
+
+    @Test
+    public void test(){
+        assertFalse(false);
+    }
+
+
+}
