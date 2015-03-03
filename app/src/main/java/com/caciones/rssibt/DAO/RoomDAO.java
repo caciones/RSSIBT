@@ -1,6 +1,7 @@
 package com.caciones.rssibt.DAO;
 
 import com.caciones.rssibt.Domain.RoomDomain;
+import com.orm.query.Select;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -11,25 +12,53 @@ import java.util.List;
  */
 public class RoomDAO {
 
-    public Iterator<RoomDomain> getAllRoom(){
+    public static Iterator<RoomDomain> getAllRoom(){
 
-        return  RoomDomain.findAll(RoomDomain.class);
+        Iterator<RoomDomain> rooms = RoomDomain.findAll(RoomDomain.class);
+
+        return rooms;
     }
 
-    public void SaveRoom(RoomDomain saveRoom){
-        RoomDomain room = new RoomDomain();
-
+    public static void saveRoom(String name, int width, int length, String nameBT){
+        RoomDomain room = new RoomDomain(name, width,length, nameBT);
+        room.save();
 
     }
-    public void deleteRoom(RoomDomain room){
+
+    public static RoomDomain loadRoom(long id){
+
+        return RoomDomain.findById(RoomDomain.class, id);
+    }
+
+    public static void deleteRoom(RoomDomain room){
         room.delete();
     }
 
-    public List<RoomDomain> findRoomByName( String name ){
-        return RoomDomain.find(RoomDomain.class, "name = ?", name);
+    public static RoomDomain updateRoom(RoomDomain room, String name, int width, int length, String nameBT){
+
+        room.setName(name);
+        room.setWidth(width);
+        room.setLength(length);
+        room.setNameBT(nameBT);
+
+        room.save();
+
+        return room;
+
     }
-    public static RoomDomain load(long id){
-        return RoomDomain.findById(RoomDomain.class, id);
+
+    public RoomDomain findRoomByName(String name){
+
+        List<RoomDomain> query = RoomDomain.find(RoomDomain.class, "name = ?", name);
+
+        return query.get(0);
+    }
+
+    public RoomDomain findByBTName(String nameBT){
+
+        List<RoomDomain> query = RoomDomain.find(RoomDomain.class, "nameBT = ?", nameBT);
+
+        return query.get(0);
     }
 
 }
